@@ -3,7 +3,8 @@
 ## Project Overview
 This project implements an end-to-end data engineering solution using Microsoft Fabric to create a news analytics platform. The solution ingests news data from Bing News API, processes it using PySpark, performs sentiment analysis, and visualizes the results in a Power BI dashboard.
 
-![Project Pipeline](path-to-your-pipeline-gif)
+![Recording 2025-01-09 184142](https://github.com/user-attachments/assets/7c0e0bb2-b09a-447f-a4a4-214dda9e2c93)
+
 
 ## Architecture
 The project utilizes several components within the Microsoft Fabric ecosystem:
