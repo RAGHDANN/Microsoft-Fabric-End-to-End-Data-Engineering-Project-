@@ -105,11 +105,8 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
-- Based on the tutorial by [Original Author Name]
 - Microsoft Fabric documentation
 - Bing News API documentation
 
 ## Contact
-Your Name - [Your Email]
-
-Project Link: [Your GitHub Repository URL]
+Email - raghdan.allam@gmail.com
