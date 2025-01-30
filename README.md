@@ -52,8 +52,7 @@ The project utilizes several components within the Microsoft Fabric ecosystem:
 │       └── sentiment_analysis_notebooks/
 ├── powerbi/
 │   └── dashboards/
-└── docs/
-    └── images/
+└── pipeline_running_record/
 ```
 
 ## Setup Instructions
